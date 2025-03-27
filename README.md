@@ -118,9 +118,9 @@ This project is about setting up a good wireless network for the office at Emera
 
 ## 10. Contact Information
 
-**Name:** Aaron Queskekapow
-**Email:** aaronqueskekapow@emmygames.com
-**Instructor:** Jibing “Felix” Liang – [felix.liang@mitt.ca](mailto:felix.liang@mitt.ca)
+- **Name:** Aaron Queskekapow
+- **Email:** aaronqueskekapow@emmygames.com
+- **Instructor:** Jibing “Felix” Liang – [felix.liang@mitt.ca](mailto:felix.liang@mitt.ca)
 
 ---
 
