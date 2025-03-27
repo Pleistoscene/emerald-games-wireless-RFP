@@ -13,7 +13,7 @@ We are an independent game development company focused on creating and promoting
 
 ## 3. Project Scope
 
-This project is about setting up a good wireless network for the office at Emerald Games. We want something that works well, is secure, and can handle lots of people using it at once. Especially since we’re a game company and use heavy internet stuff all the time.
+This project is about setting up a strong wireless network for the office at Emerald Games. We need something reliable, secure, and able to handle multiple users at the same time — especially since we're a game company and often use heavy internet resources like game builds, updates, and testing.
 
 ### Objectives
 - Get solid wireless coverage everywhere in the office
