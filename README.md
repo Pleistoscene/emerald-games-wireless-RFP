@@ -5,7 +5,7 @@
 
 ## 1. Executive Summary
 
-This RFP outlines the plan to design and deploy a wireless network for Emerald Games. The network will support modern standards, ensure security, and scale with future needs.
+Emerald Games is seeking a wireless networking solution for its office that delivers full coverage, modern security, and the capacity to support ongoing game development operations. This RFP outlines the technical requirements, scope of work, and expectations for vendors to help us build a secure, robust network we can build on should our needs change
 
 ## 2. About Us
 
