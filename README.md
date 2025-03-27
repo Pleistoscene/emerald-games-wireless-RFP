@@ -9,11 +9,11 @@ This RFP outlines the plan to design and deploy a wireless network for Emerald G
 
 ## 2. About Us
 
-We are an independent game development company focused on creating and promoting original indie games. Our first game, *The Last Conflict*, was released on Steam in 2017. Since then, we’ve been growing our team and expanding our technical foundation. We are now planning to upgrade our wireless network to ensure strong security and reliable performance across the company.
+We are an independent game development company focused on creating and promoting original indie games. Our first game, *The Last Conflict*, was released on Steam in 2017. Since then, we’ve been growing our team and expanding our technical foundation. We are now planning to upgrade our wireless network to ensure strong security and reliable performance across the office.
 
 ## 3. Project Scope
 
-This project is about setting up a good wireless network for the office at Emerald Games. We want something that works well, is secure, and can handle lots of people using it at once — especially since we’re a game company and use heavy internet stuff all the time.
+This project is about setting up a good wireless network for the office at Emerald Games. We want something that works well, is secure, and can handle lots of people using it at once. Especially since we’re a game company and use heavy internet stuff all the time.
 
 ### Objectives
 - Get solid wireless coverage everywhere in the office
@@ -34,10 +34,10 @@ This project is about setting up a good wireless network for the office at Emera
 
 ## 4. Requirements
 
-- **Full Coverage** – Wi-Fi should reach all the rooms like offices, meeting areas, and open spaces
+- **Full Coverage** – Wi-Fi should be able reach all the rooms in the office, meeting areas, and open spaces
 - **Wi-Fi 6 Support** – Must support the newest Wi-Fi standard so newer devices get full speed
 - **Good Security** – Needs to have WPA3, MAC filtering, and maybe a separate network for guests
-- **Handles Lots of Devices** – Should work fine with 100+ devices at once without slowing down
+- **Handles Lots of Devices** – Should work fine with 20+ devices at once without slowing down
 - **Monitoring Tools** – We need a way to see who’s connected, if anything’s wrong, and get alerts if stuff breaks
 
 ## 5. Technical Requirements
@@ -59,7 +59,7 @@ This project is about setting up a good wireless network for the office at Emera
 - Vendors should be able to provide examples of past work that shows technical knowledge and ability to solve problems
 
 ### Project Approach
-- Vendors should include 2 example projects they’ve worked on or ideas they would suggest for improving wireless networks in game development or tech-focused offices
+- Vendors should include 2 example projects they’ve worked on or ideas they would suggest for improving wireless networks for small offices
 
 ### Certifications
 - Vendors must have at least one current certification in networking or security (e.g., CCNA, Network+, CWNA, or similar)
@@ -68,15 +68,18 @@ This project is about setting up a good wireless network for the office at Emera
 ### References
 - Vendors must provide at least 3 references from past clients who had similar wireless or network projects
 
-## 7. Cost Breakdown (Estimate)
+## 7. Cost Breakdown (Rough Estimate)
 
-| Item                         | Estimated Cost |
-|-----------------------------|----------------|
-| Site survey                 | $300           |
-| Access points (5 units)     | $2,000         |
-| Install and configuration   | $1,200         |
-| Maintenance (1 year)        | $800           |
-| **Total**                   | **$4,300**     |
+| Item                          | Estimated Cost |
+|-------------------------------|------------------|
+| Wireless Router               | $250             |
+| Site Survey                   | $200             |
+| Installation & Setup          | $500             |
+| Cabling (Ethernet to PCs)     | $100             |
+| Maintenance (1 year)          | $450             |
+| **Total**                     | **$1,500**       |
+
+*Note: This setup is based on a small office environment with a single wireless router handling both wired and wireless devices. If future expansion is planned, access points and switching infrastructure can be added.*
 
 ## 8. Timeline
 
@@ -110,7 +113,7 @@ This project is about setting up a good wireless network for the office at Emera
 ## 12. Terms and Conditions
 
 - **Contract Duration:** 1 year, with an option to renew based on performance
-- **Confidentiality:** Vendors must keep Emerald Games’ internal info private
+- **Confidentiality:** Vendors must keep Emerald Games internal info private
 - **Legal Compliance:** Vendors must follow all local and national laws
 
 ## 13. Service Level Expectations
@@ -121,8 +124,8 @@ This project is about setting up a good wireless network for the office at Emera
 
 ## 14. Training and Handover
 
-- Vendor must provide basic training to one team member on how to monitor and manage the wireless system  
-- A short video tutorial or a one-page guide is acceptable
+- Vendor must provide basic training to one company member on how to monitor and manage the wireless system  
+- A short video tutorial or a one page guide is acceptable
 
 ## 15. Scalability and Future-Proofing
 
@@ -130,7 +133,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ## 16. Hardware Warranty and Support
 
-- All access points should have a minimum 1-year warranty
+- All hardware should have a minimum 1-year warranty
 - Vendor should handle RMA (returns) if any unit fails within warranty
 
 ## 17. Assumptions and Risks
