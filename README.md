@@ -108,7 +108,7 @@ This project is about setting up a strong wireless network for the office at Eme
 
 - **Name:** Aaron Queskekapow
 - **Email:** aaronqueskekapow@emmygames.com
-- **Instructor:** Jibing “Felix” Liang – [felix.liang@mitt.ca](mailto:felix.liang@mitt.ca)
+- **Instructor:** Jibing “Felix” Liang – [jibing.liang@mitt.ca](mailto:jibing.liang@mitt.ca)
 
 ## 12. Terms and Conditions
 
