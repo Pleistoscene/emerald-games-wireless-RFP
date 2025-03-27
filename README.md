@@ -8,7 +8,8 @@
 This RFP outlines the plan to design and deploy a wireless network for Emerald Games. The network will support modern standards, ensure security, and scale with future needs.
 
 ## 2. About Us
-Emerald Games is a small gaming company I started. My first game, *The Last Conflict*, was released on Steam in 2017. Getting that game on Steam was my first big goal — and I did it. Now, my goal is to help other indie developers reach their goals too, just like I did. As our team grows, we need a solid wireless setup in the office that’s secure, fast, and can handle everything we throw at it.
+
+We are an independent game development company focused on creating and promoting original indie games. Our first game, *The Last Conflict*, was released on Steam in 2017. Since then, we’ve been growing our team and expanding our technical foundation. We are now planning to upgrade our wireless network to ensure strong security and reliable performance across the company.
 
 ## 3. Project Scope
 
