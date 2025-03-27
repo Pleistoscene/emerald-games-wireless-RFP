@@ -3,18 +3,12 @@
 **Submitted by:** Aaron Queskekapow  
 **Company:** Emerald Games  
 
----
-
 ## 1. Executive Summary
 
 This RFP outlines the plan to design and deploy a wireless network for Emerald Games. The network will support modern standards, ensure security, and scale with future needs.
 
----
-
 ## 2. About Us
 Emerald Games is a small gaming company I started. My first game, *The Last Conflict*, was released on Steam in 2017. Getting that game on Steam was my first big goal — and I did it. Now, my goal is to help other indie developers reach their goals too, just like I did. As our team grows, we need a solid wireless setup in the office that’s secure, fast, and can handle everything we throw at it.
-
----
 
 ## 3. Project Scope
 
