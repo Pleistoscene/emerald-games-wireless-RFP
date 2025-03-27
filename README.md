@@ -2,7 +2,6 @@
 ## Deployment of Wireless Infrastructure
 **Submitted by:** Aaron Queskekapow  
 **Company:** Emerald Games  
-**College:** Manitoba Institute of Trades and Technology (MITT)
 
 ---
 
