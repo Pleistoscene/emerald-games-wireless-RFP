@@ -23,7 +23,6 @@ This project is about setting up a good wireless network for the office at Emera
 
 ### Scope of Work
 ![Network Layout](./images/network.png)
-*A basic network layout diagram will be to show access point placement and connectivity.*
 - **Site Survey** – Walk through the office and figure out where to put the Wi-Fi access points so there’s no dead zones
 - **Install & Setup** – Mount the access points and get them working with our settings (SSID, password, etc.)
 - **Connect to Wired Network** – Make sure everything connects to the network we already have (LAN switches, router, etc.)
