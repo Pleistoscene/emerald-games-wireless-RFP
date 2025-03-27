@@ -5,18 +5,18 @@
 
 ---
 
-## Executive Summary
+## 1. Executive Summary
 
 This RFP outlines the plan to design and deploy a wireless network for Emerald Games. The network will support modern standards, ensure security, and scale with future needs.
 
 ---
 
-## 1. About Us
+## 2. About Us
 Emerald Games is a small gaming company I started. My first game, *The Last Conflict*, was released on Steam in 2017. Getting that game on Steam was my first big goal — and I did it. Now, my goal is to help other indie developers reach their goals too, just like I did. As our team grows, we need a solid wireless setup in the office that’s secure, fast, and can handle everything we throw at it.
 
 ---
 
-## 2. Project Scope
+## 3. Project Scope
 
 This project is about setting up a good wireless network for the office at Emerald Games. We want something that works well, is secure, and can handle lots of people using it at once — especially since we’re a game company and use heavy internet stuff all the time.
 
@@ -40,7 +40,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 3. Requirements
+## 4. Requirements
 
 - **Full Coverage** – Wi-Fi should reach all the rooms like offices, meeting areas, and open spaces
 - **Wi-Fi 6 Support** – Must support the newest Wi-Fi standard so newer devices get full speed
@@ -50,7 +50,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 4. Technical Requirements
+## 5. Technical Requirements
 
 ### System Requirements
 - Technicians must provide a list of operating systems they know how to work with (Windows, Linux, macOS, etc.)
@@ -64,7 +64,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 5. Vendor Qualifications
+## 6. Vendor Qualifications
 
 ### Experience
 - Vendors should have at least 2 years of experience setting up wireless networks in office environments
@@ -82,7 +82,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 6. Cost Breakdown (Rough Estimate)
+## 7. Cost Breakdown (Estimate)
 
 | Item                         | Estimated Cost |
 |-----------------------------|----------------|
@@ -94,7 +94,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 7. Timeline
+## 8. Timeline
 
 | Milestone                     | Date             |
 |------------------------------|------------------|
@@ -107,7 +107,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 8. Evaluation Criteria
+## 9. Evaluation Criteria
 
 - **Cost** – A detailed breakdown including setup, maintenance, and hardware required
 - **Technical Approach** – How the vendor plans to set up and maintain the network, explained clearly
@@ -116,14 +116,14 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 9. Proposal Submission
+## 10. Proposal Submission
 
 - **Format:** Submit the proposal in PDF format
 - **Deadline:** Thursday, April 10, 2025 by 3:30 PM
 
 ---
 
-## 10. Contact Information
+## 11. Contact Information
 
 - **Name:** Aaron Queskekapow
 - **Email:** aaronqueskekapow@emmygames.com
@@ -131,7 +131,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 11. Terms and Conditions
+## 12. Terms and Conditions
 
 - **Contract Duration:** 1 year, with an option to renew based on performance
 - **Confidentiality:** Vendors must keep Emerald Games’ internal info private
@@ -139,7 +139,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 12. Service Level Expectations
+## 13. Service Level Expectations
 
 - Vendor must respond to support requests within 1 business day
 - Critical issues (like complete wireless outage) must be addressed within 4 hours
@@ -147,27 +147,27 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 13. Training and Handover
+## 14. Training and Handover
 
 - Vendor must provide basic training to one team member on how to monitor and manage the wireless system  
 - A short video tutorial or a one-page guide is acceptable
 
 ---
 
-## 14. Scalability and Future-Proofing
+## 15. Scalability and Future-Proofing
 
 - The system should be able to scale by adding more access points without replacing the core setup
 
 ---
 
-## 15. Hardware Warranty and Support
+## 16. Hardware Warranty and Support
 
 - All access points should have a minimum 1-year warranty
 - Vendor should handle RMA (returns) if any unit fails within warranty
 
 ---
 
-## 16. Assumptions and Risks
+## 17. Assumptions and Risks
 
 - It's assumed that the office has adequate cabling and power outlets where access points will be installed  
 - Vendor is expected to work during business hours unless otherwise agreed  
@@ -175,7 +175,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 17. Final Notes
+## 18. Final Notes
 
 We’re excited to work with someone who understands our goals and can help us set up something that works great and lasts long. Thanks for checking out this proposal!
 
