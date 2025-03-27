@@ -132,13 +132,7 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 12. Final Notes
-
-We’re excited to work with someone who understands our goals and can help us set up something that works great and lasts long. Thanks for checking out this proposal!
-
----
-
-## 13. Service Level Expectations
+## 12. Service Level Expectations
 
 - Vendor must respond to support requests within 1 business day
 - Critical issues (like complete wireless outage) must be addressed within 4 hours
@@ -146,20 +140,28 @@ We’re excited to work with someone who understands our goals and can help us s
 
 ---
 
-## 14. Training and Handover
+## 13. Training and Handover
 
 - Vendor must provide basic training to one team member on how to monitor and manage the wireless system  
 - A short video tutorial or a one-page guide is acceptable
 
 ---
 
-## 15. Scalability and Future-Proofing
+## 14. Scalability and Future-Proofing
 
 - The system should be able to scale by adding more access points without replacing the core setup
 
 ---
 
-## 16. Hardware Warranty and Support
+## 15. Hardware Warranty and Support
 
 - All access points should have a minimum 1-year warranty
 - Vendor should handle RMA (returns) if any unit fails within warranty
+
+---
+
+## 16. Final Notes
+
+We’re excited to work with someone who understands our goals and can help us set up something that works great and lasts long. Thanks for checking out this proposal!
+
+---
