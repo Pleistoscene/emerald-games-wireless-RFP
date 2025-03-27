@@ -5,6 +5,12 @@
 
 ---
 
+## Executive Summary
+
+This RFP outlines the plan to design and deploy a wireless network for Emerald Games. The network will support modern standards, ensure security, and scale with future needs.
+
+---
+
 ## 1. About Us
 Emerald Games is a small gaming company I started. My first game, *The Last Conflict*, was released on Steam in 2017. Getting that game on Steam was my first big goal — and I did it. Now, my goal is to help other indie developers reach their goals too, just like I did. As our team grows, we need a solid wireless setup in the office that’s secure, fast, and can handle everything we throw at it.
 
@@ -159,7 +165,15 @@ This project is about setting up a good wireless network for the office at Emera
 
 ---
 
-## 16. Final Notes
+## 16. Assumptions and Risks
+
+- It's assumed that the office has adequate cabling and power outlets where access points will be installed  
+- Vendor is expected to work during business hours unless otherwise agreed  
+- Any delays in hardware shipping may impact the project timeline
+
+---
+
+## 17. Final Notes
 
 We’re excited to work with someone who understands our goals and can help us set up something that works great and lasts long. Thanks for checking out this proposal!
 
