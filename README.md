@@ -3,7 +3,5 @@ This Request for Proposal (RFP) was created as part of a class assignment and is
 ---
 
 **Student:** Aaron Queskekapow
-
 **Instructor:** Felix Liang
-
 **Date:** March 28, 2025
